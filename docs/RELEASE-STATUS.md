@@ -23,6 +23,8 @@ Browser checks covered home, rare coins, showroom, colored diamonds and the form
 
 Dependency audit after patched dependency updates: zero known vulnerabilities reported. Build verification does not imply dependencies will remain vulnerability-free indefinitely.
 
+GitHub's clean Linux verification also passed for both preview and production builds: [verification run](https://github.com/thadackel/br-collective/actions/runs/40531326523). The Covington external link returned HTTP 200; the online store returned HTTP 429, so its customer journey remains unverified.
+
 ## Remaining launch verification
 
 - Approve and create the Vercel deployment, verify live edge routing, redirect order, certificates and both domain variants.
