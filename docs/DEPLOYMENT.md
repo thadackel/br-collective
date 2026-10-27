@@ -1,5 +1,7 @@
 # Review deployment — October 27, 2026
 
+Update: the owner-requested homepage restoration is deployed to the [current review preview](https://br-collective-git-review-seo-ready-tda4.vercel.app/). See [homepage restoration details](HOMEPAGE-RESTORATION.md). The deployment and full-site observations below describe the preceding SEO preview and remain its historical verification record.
+
 The approved review version is deployed on Vercel:
 
 - [Review website](https://br-collective-o7rggdoc5-tda4.vercel.app/)

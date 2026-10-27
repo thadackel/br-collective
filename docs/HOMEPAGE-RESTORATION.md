@@ -2,6 +2,8 @@
 
 At the owner's request, the homepage again uses the original design from `https://br-collective.vercel.app/` rather than the reconstructed replacement styling.
 
+Deployed and verified: [current review preview](https://br-collective-git-review-seo-ready-tda4.vercel.app/). Immutable version: `https://br-collective-540fw5tlx-tda4.vercel.app/`, source commit `da78073420a7690880f0b8f8a86355adb22411ee`. Vercel reports Ready; both GitHub build modes passed. All four hosted raster credential images loaded, and the original GIA wordmark was visible. The hosted screenshot is `docs/screenshots/hosted-restored-credentials.png`. DNS and the existing production deployments were not changed.
+
 - Recovered the original stylesheet and original BBB, NGC, PMG and ANA image files directly from the rendered reference page's asset bundle. The GIA Graduate on Staff wordmark retains the reference page's original markup and styling.
 - Restored the original headline, hero artwork, typography, colors, spacing, navigation, service rows, credential row, showroom presentation and footer. The homepage does not use the newly introduced footer directory or fixed mobile call strip.
 - Kept the requested word “jewelry” immediately after “silver” in the original introductory buying-and-selling sentence. Search metadata continues to include jewelry.
