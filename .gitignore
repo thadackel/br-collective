@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vercel/
+.env*
+!\.env.example
+data/captured-pages.json
+data/recovered-articles.json
+data/brand-asset-results.json
+scripts/inspect.mjs
+scripts/prepare-source.mjs
+test-results/
+*.zip

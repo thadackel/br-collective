@@ -1,0 +1,45 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm ci",
+  "trailingSlash": true,
+  "git": {"deploymentEnabled": false},
+  "redirects": [
+    {"source":"/investing-in-coins","destination":"/buying-coins/","statusCode":301},
+    {"source":"/consingnment-services","destination":"/consignment-services/","statusCode":301},
+    {"source":"/jewelry-repairs-and-custom-designs","destination":"/jewelry-repairs/","statusCode":301},
+    {"source":"/blog","destination":"/blog-posts/","statusCode":301},
+    {"source":"/sitemap_index.xml","destination":"/sitemap.xml","statusCode":301},
+    {"source":"/wp-sitemap.xml","destination":"/sitemap.xml","statusCode":301},
+    {"source":"/category/goldandsilver","destination":"/blog-posts/","statusCode":301},
+    {"source":"/category/goldandsilver/page/2","destination":"/blog-posts/","statusCode":301},
+    {"source":"/category/batonrougegoldbuyer","destination":"/blog-posts/","statusCode":301},
+    {"source":"/author/goldenegg","destination":"/blog-posts/","statusCode":301},
+    {"source":"/author/goldenegg/page/2","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2022/07","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2020/05","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2017/03","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2016/11","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2016/02","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2015/02","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2015/01","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2014/07","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2014/01","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2012/03","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2012/01","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2011/12","destination":"/blog-posts/","statusCode":301},
+    {"source":"/2011/11","destination":"/blog-posts/","statusCode":301}
+  ],
+  "headers": [
+    {"source":"/(.*)","headers":[
+      {"key":"X-Content-Type-Options","value":"nosniff"},
+      {"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"},
+      {"key":"Permissions-Policy","value":"camera=(), microphone=(), geolocation=()"},
+      {"key":"Content-Security-Policy","value":"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; font-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'self'"}
+    ]},
+    {"source":"/(.*)","has":[{"type":"host","value":".*\\.vercel\\.app"}],"headers":[{"key":"X-Robots-Tag","value":"noindex, follow"}]},
+    {"source":"/wp-content/uploads/(.*)","headers":[{"key":"Cache-Control","value":"public, max-age=86400, stale-while-revalidate=604800"}]}
+  ]
+}

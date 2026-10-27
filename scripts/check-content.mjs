@@ -1,0 +1,1 @@
+import fs from 'node:fs';import {load} from 'cheerio';const p=JSON.parse(fs.readFileSync('data/pages.json'));for(const x of p){const $=load(x.html);console.log(x.path,x.kind,$('article').text().trim().length||$.text().trim().length,x.published||'');}

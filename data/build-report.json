@@ -1,0 +1,378 @@
+{
+  "indexable": false,
+  "pages": 53,
+  "optimizedImages": 153,
+  "generated": [
+    {
+      "path": "/",
+      "title": "Buy & Sell Gold, Silver & Rare Coins in Baton Rouge",
+      "description": "Buy or sell gold, silver, rare coins and jewelry in Baton Rouge. Visit Gold & Silver of Louisiana at CitiPlace for a no-obligation evaluation.",
+      "kind": "service",
+      "bytes": 16715
+    },
+    {
+      "path": "/bullion/",
+      "title": "Buy & Sell Gold and Silver Bullion in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell gold, silver, platinum and palladium bullion in Baton Rouge. Discuss coins, bars and current availability with our CitiPlace team.",
+      "kind": "service",
+      "bytes": 15346
+    },
+    {
+      "path": "/sell-gold-coins/",
+      "title": "Buy & Sell Gold Coins in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell gold coins in Baton Rouge. Our team considers precious-metal content, authenticity, condition and collector demand during your evaluation.",
+      "kind": "service",
+      "bytes": 15414
+    },
+    {
+      "path": "/sell-silver-coins/",
+      "title": "Buy & Sell Silver Coins in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell silver coins and collections in Baton Rouge. Bring your bullion and collectible coins to CitiPlace for a no-obligation evaluation.",
+      "kind": "service",
+      "bytes": 16895
+    },
+    {
+      "path": "/rare-coins/",
+      "title": "Buy & Sell Rare Coins in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell rare U.S. and world coins in Baton Rouge. Visit Gold & Silver of Louisiana at CitiPlace for a professional, no-obligation evaluation.",
+      "kind": "service",
+      "bytes": 14996
+    },
+    {
+      "path": "/baton-rouge-platinum-buyer/",
+      "title": "Baton Rouge Platinum Buyer | Gold & Silver of Louisiana",
+      "description": "Sell platinum jewelry, coins, bullion and scrap in Baton Rouge. Visit CitiPlace for testing and a clear explanation of the factors behind your offer.",
+      "kind": "service",
+      "bytes": 15628
+    },
+    {
+      "path": "/notes-currency/",
+      "title": "Buy & Sell Paper Currency in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell collectible paper money in Baton Rouge. Our team evaluates age, rarity, condition, serial numbers and collector demand.",
+      "kind": "service",
+      "bytes": 16046
+    },
+    {
+      "path": "/designer-jewelry/",
+      "title": "Buy & Sell Designer Jewelry in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell signed and designer jewelry in Baton Rouge. Visit our CitiPlace showroom to discuss your pieces or browse our changing selection.",
+      "kind": "service",
+      "bytes": 18711
+    },
+    {
+      "path": "/antique-jewelry/",
+      "title": "Antique & Estate Jewelry in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell antique, vintage and estate jewelry in Baton Rouge. Visit Gold & Silver of Louisiana at CitiPlace for a no-obligation evaluation.",
+      "kind": "service",
+      "bytes": 15583
+    },
+    {
+      "path": "/costume-jewelry/",
+      "title": "Costume Jewelry | Gold & Silver of Louisiana",
+      "description": "Explore vintage and collectible costume jewelry in Baton Rouge. Bring signed pieces or collections to our CitiPlace showroom for an evaluation.",
+      "kind": "service",
+      "bytes": 14466
+    },
+    {
+      "path": "/sell-used-or-scrap-jewelry/",
+      "title": "Sell Used or Scrap Jewelry | Gold & Silver of Louisiana",
+      "description": "Sell used, broken or scrap gold, silver and platinum jewelry in Baton Rouge. Visit CitiPlace for a no-obligation evaluation of your items.",
+      "kind": "service",
+      "bytes": 15614
+    },
+    {
+      "path": "/buying-and-selling-watches-in-baton-rouge/",
+      "title": "Buying and Selling Watches in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Buy or sell designer, luxury and vintage watches in Baton Rouge. Discuss condition, model, documentation and current availability with our team.",
+      "kind": "service",
+      "bytes": 15472
+    },
+    {
+      "path": "/watch-battery-replacement/",
+      "title": "Watch Battery Replacement & Repair in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Visit our Baton Rouge showroom for watch battery replacement and repair assessment. Call ahead to discuss your watch and service needs.",
+      "kind": "service",
+      "bytes": 14469
+    },
+    {
+      "path": "/sell-silverware/",
+      "title": "Sell Sterling Silverware in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Sell sterling silver flatware and serving pieces in Baton Rouge. Bring your items to Gold & Silver of Louisiana at CitiPlace for an evaluation.",
+      "kind": "service",
+      "bytes": 16104
+    },
+    {
+      "path": "/art-home-decor-antiques/",
+      "title": "Art, Home Decor & Antiques | Gold & Silver of Louisiana",
+      "description": "Explore art, antiques and distinctive home decor at our Baton Rouge showroom. Contact our team to discuss items or consignment services.",
+      "kind": "service",
+      "bytes": 15072
+    },
+    {
+      "path": "/jewelry-repairs/",
+      "title": "Jewelry Repair in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Discuss jewelry repair and restoration with our Baton Rouge team. Bring your piece to CitiPlace for an assessment of the work it needs.",
+      "kind": "service",
+      "bytes": 14649
+    },
+    {
+      "path": "/rhodium-plating/",
+      "title": "Rhodium Plating | Gold & Silver of Louisiana",
+      "description": "Ask about rhodium plating for white-gold jewelry in Baton Rouge. Our team can assess your piece and explain maintenance and service options.",
+      "kind": "service",
+      "bytes": 15379
+    },
+    {
+      "path": "/jewelry-engraving/",
+      "title": "Jewelry Engraving in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Personalize rings, pendants, watches and gifts with jewelry engraving in Baton Rouge. Contact our CitiPlace showroom to discuss your design.",
+      "kind": "service",
+      "bytes": 14401
+    },
+    {
+      "path": "/bottle-and-glass-engraving/",
+      "title": "Bottle & Glass Engraving in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Personalize bottles, glassware and crystal in Baton Rouge. Discuss engraving for weddings, gifts, awards and corporate events with our team.",
+      "kind": "service",
+      "bytes": 14724
+    },
+    {
+      "path": "/custom-jewelry-designs/",
+      "title": "Custom Jewelry Designs | Gold & Silver of Louisiana",
+      "description": "Discuss custom jewelry designs in Baton Rouge. Work with our team on a personal ring, pendant or other piece that suits your vision and budget.",
+      "kind": "service",
+      "bytes": 14970
+    },
+    {
+      "path": "/monogram-jewelry/",
+      "title": "Monogram Jewelry | Gold & Silver of Louisiana",
+      "description": "Explore personalized monogram jewelry in Baton Rouge. Contact our CitiPlace showroom to discuss materials, lettering and design options.",
+      "kind": "service",
+      "bytes": 13967
+    },
+    {
+      "path": "/gold-and-silver-of-louisiana-location/",
+      "title": "Visit Our Baton Rouge Showroom | Gold & Silver of Louisiana",
+      "description": "Visit 2561 CitiPlace Ct., Suite 375, Baton Rouge. Open Monday–Friday 10–6 and Saturday 10–4:30. Call (225) 366-1000 for questions or directions.",
+      "kind": "service",
+      "bytes": 14105
+    },
+    {
+      "path": "/how-we-buy-gold-and-silver/",
+      "title": "How We Buy Gold and Silver | Gold & Silver of Louisiana",
+      "description": "Learn what to expect when selling gold and silver in Baton Rouge, from purity and weight testing to market factors and a no-obligation offer.",
+      "kind": "service",
+      "bytes": 19928
+    },
+    {
+      "path": "/baton-rouge-gold-buyers/",
+      "title": "Baton Rouge Gold Buyers | Gold & Silver of Louisiana",
+      "description": "Sell gold, silver, platinum and palladium in Baton Rouge. Visit CitiPlace for a clear evaluation of purity, weight and current market factors.",
+      "kind": "service",
+      "bytes": 14889
+    },
+    {
+      "path": "/blog-posts/",
+      "title": "Gold, Silver & Jewelry Articles | Gold & Silver of Louisiana",
+      "description": "Read our articles about coins, gold, silver, jewelry and engraving. Explore collecting guides and dated market commentary from our archive.",
+      "kind": "blog",
+      "bytes": 16828
+    },
+    {
+      "path": "/foreign-coins-currency-dealer/",
+      "title": "Foreign Coins & Currency Dealer | Gold & Silver of Louisiana",
+      "description": "Bring foreign coins and collectible paper money to our Baton Rouge showroom. We evaluate metal content, age, rarity, condition and demand.",
+      "kind": "service",
+      "bytes": 14990
+    },
+    {
+      "path": "/u-s-90-silver-coins/",
+      "title": "U.S. 90% Silver Coins | Gold & Silver of Louisiana",
+      "description": "Learn about U.S. 90% silver coins and discuss buying or selling your collection at Gold & Silver of Louisiana in Baton Rouge.",
+      "kind": "service",
+      "bytes": 15319
+    },
+    {
+      "path": "/rose-gold/",
+      "title": "Rose Gold | Gold & Silver of Louisiana",
+      "description": "Learn about rose gold and discuss buying, selling or repairing rose-gold jewelry with our team at CitiPlace in Baton Rouge.",
+      "kind": "service",
+      "bytes": 15555
+    },
+    {
+      "path": "/selling-and-buying-diamonds/",
+      "title": "Selling and Buying Diamonds | Gold & Silver of Louisiana",
+      "description": "Buy or sell loose and mounted diamonds in Baton Rouge. Discuss grading, condition and market factors with our CitiPlace jewelry team.",
+      "kind": "service",
+      "bytes": 14862
+    },
+    {
+      "path": "/colored-diamonds/",
+      "title": "Learning About Fancy Colored Diamonds | Gold & Silver of Louisiana",
+      "description": "Learn about fancy colored diamonds and the factors that influence value, including color, rarity, size and quality, with our Baton Rouge team.",
+      "kind": "service",
+      "bytes": 21485
+    },
+    {
+      "path": "/engraving-services/",
+      "title": "Engraving Services | Gold & Silver of Louisiana",
+      "description": "Explore jewelry, bottle, glass and gift engraving in Baton Rouge. Contact our CitiPlace showroom to discuss your project and available options.",
+      "kind": "service",
+      "bytes": 14984
+    },
+    {
+      "path": "/buying-coins/",
+      "title": "Buying Gold, Silver & Platinum Coins in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Learn about buying gold, silver and platinum coins in Baton Rouge. Discuss bullion, collectible coins and your collecting goals with our team.",
+      "kind": "service",
+      "bytes": 18212
+    },
+    {
+      "path": "/consignment-services/",
+      "title": "Consignment Services | Gold & Silver of Louisiana",
+      "description": "Discuss consignment services for jewelry, art and antiques in Baton Rouge. Contact our CitiPlace showroom to learn which items we can consider.",
+      "kind": "service",
+      "bytes": 14116
+    },
+    {
+      "path": "/gold-and-silver-of-louisiana/",
+      "title": "About Gold & Silver of Louisiana | Gold & Silver of Louisiana",
+      "description": "Meet Gold & Silver of Louisiana, serving buyers and sellers of precious metals, coins and jewelry from our CitiPlace showroom in Baton Rouge.",
+      "kind": "service",
+      "bytes": 16937
+    },
+    {
+      "path": "/pmg-dealer/",
+      "title": "Paper Money & PMG Dealer Services in Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Discuss collectible paper currency and PMG-related services with Gold & Silver of Louisiana in Baton Rouge. Call ahead for current service details.",
+      "kind": "service",
+      "bytes": 13735
+    },
+    {
+      "path": "/silver-dollars/",
+      "title": "Silver Dollars | Gold & Silver of Louisiana",
+      "description": "Explore silver dollars and discuss buying or selling your coins in Baton Rouge. Our team considers metal value, date, condition and collector demand.",
+      "kind": "service",
+      "bytes": 14562
+    },
+    {
+      "path": "/turquoise/",
+      "title": "Turquoise | Gold & Silver of Louisiana",
+      "description": "Learn about turquoise jewelry and discuss your pieces with Gold & Silver of Louisiana at our CitiPlace showroom in Baton Rouge.",
+      "kind": "service",
+      "bytes": 15358
+    },
+    {
+      "path": "/designer-jewelry-in-a-secondary-market/",
+      "title": "Designer Jewelry in a Secondary Market | Gold & Silver of Louisiana",
+      "description": "Read “Designer Jewelry in a Secondary Market” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17805
+    },
+    {
+      "path": "/the-art-of-engraving/",
+      "title": "The Art of Engraving | Gold & Silver of Louisiana",
+      "description": "Read “The Art of Engraving” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17076
+    },
+    {
+      "path": "/rare-and-numismatic-coins/",
+      "title": "Rare and Numismatic Coins | Gold & Silver of Louisiana",
+      "description": "Read “Rare and Numismatic Coins” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 15222
+    },
+    {
+      "path": "/jewelry-era-styles/",
+      "title": "Jewelry Era Styles | Gold & Silver of Louisiana",
+      "description": "Read “Jewelry Era Styles” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 19021
+    },
+    {
+      "path": "/precious-metals-vs-mining-stocks/",
+      "title": "Precious Metals vs. Mining Stocks | Gold & Silver of Louisiana",
+      "description": "Read “Precious Metals vs. Mining Stocks” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17271
+    },
+    {
+      "path": "/the-fifth-c-of-diamonds/",
+      "title": "The Fifth C of Diamonds | Gold & Silver of Louisiana",
+      "description": "Read “The Fifth C of Diamonds” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 16866
+    },
+    {
+      "path": "/coins-vs-bars-and-rounds/",
+      "title": "Coins vs Bars & Rounds | Gold & Silver of Louisiana",
+      "description": "Read “Coins vs Bars & Rounds” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17515
+    },
+    {
+      "path": "/precious-metals-and-the-ecb’s-stimulus-plan-and-danish-rate-cuts/",
+      "title": "Precious metals and the ECB’s stimulus plan and Danish Rate Cuts | Gold & Silver of Louisiana",
+      "description": "Read “Precious metals and the ECB’s stimulus plan and Danish Rate Cuts” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 16928
+    },
+    {
+      "path": "/gold-silver-prices-rise-after-swiss-abandon-currency-cap/",
+      "title": "Swiss Currency Cap Gold & Silver Market | Gold & Silver of Louisiana",
+      "description": "Read “Swiss Currency Cap Gold & Silver Market” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 15942
+    },
+    {
+      "path": "/gold-and-silver-continue-to-edge-higher-in-price/",
+      "title": "Gol & Sivler Edge Higher | Gold & Silver of Louisiana",
+      "description": "Read “Gol & Sivler Edge Higher” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 15664
+    },
+    {
+      "path": "/start-a-coin-collection-for-your-children-or-grandchildren/",
+      "title": "Starting a Coin Collection for Children or Grandchildren | Gold & Silver of Louisiana",
+      "description": "Read “Starting a Coin Collection for Children or Grandchildren” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17997
+    },
+    {
+      "path": "/taking-advantage-of-the-high-price-of-silver/",
+      "title": "High Silver Prices/ Invest or Sell | Gold & Silver of Louisiana",
+      "description": "Read “High Silver Prices/ Invest or Sell” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 17207
+    },
+    {
+      "path": "/2012-store-updates-new-inventory-and-jewelry-repair/",
+      "title": "Baton Rouge Jewelry Repair and Antique Consignment | Gold & Silver of Louisiana",
+      "description": "Read “Baton Rouge Jewelry Repair and Antique Consignment” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 18684
+    },
+    {
+      "path": "/volatility-in-the-gold/",
+      "title": "Gold volatility | Gold & Silver of Louisiana",
+      "description": "Read “Gold volatility” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 16427
+    },
+    {
+      "path": "/precious-metals-outlook-in-baton-rouge/",
+      "title": "Precious Metals Outlook In Baton Rouge | Gold & Silver of Louisiana",
+      "description": "Read “Precious Metals Outlook In Baton Rouge” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 16977
+    },
+    {
+      "path": "/market-volitility-gold-and-silvers-reaction/",
+      "title": "Market Volitility, Gold and Silver\\'s Reaction | Gold & Silver of Louisiana",
+      "description": "Read “Market Volitility, Gold and Silver\\'s Reaction” from the Gold & Silver of Louisiana archive, with information for coin, jewelry and precious-metals buyers and sellers.",
+      "kind": "article",
+      "bytes": 16747
+    }
+  ]
+}
