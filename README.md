@@ -1,5 +1,7 @@
 # Gold & Silver of Louisiana — Baton Rouge
 
+An approved Vercel review deployment is available. See [deployment status and verification](docs/DEPLOYMENT.md). The production domain and DNS remain unchanged.
+
 Reconstructed, independently maintainable website for `batonrougegoldandsilver.com`, based on the public `br-collective.vercel.app` rebuild and the business's existing WordPress content. No access to the original rebuild's source code was available. This is a new static implementation, not a recovered copy of its Next.js repository.
 
 ## Local use

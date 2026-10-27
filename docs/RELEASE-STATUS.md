@@ -1,6 +1,6 @@
 # Prepared release — October 27, 2026
 
-Status: locally built and tested source; not deployed. DNS unchanged.
+Status: deployed to an approved Vercel Preview environment. Production and DNS unchanged. See [deployment details](DEPLOYMENT.md).
 
 ## Implemented
 

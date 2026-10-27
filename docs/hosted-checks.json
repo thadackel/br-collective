@@ -1,0 +1,710 @@
+{
+  "deployment": "https://br-collective-o7rggdoc5-tda4.vercel.app",
+  "commit": "ec665c87fe5fce678e2c3c910b6b2256ddec6b5d",
+  "verifiedAt": "2026-10-27T16:30:13.669Z",
+  "pages": [
+    {
+      "path": "/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Gold, Silver, Jewelry & Rare Coins in Baton Rouge"
+    },
+    {
+      "path": "/bullion/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/bullion/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Gold and Silver Bullion in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/sell-gold-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/sell-gold-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Gold Coins in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/sell-silver-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/sell-silver-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Silver Coins in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/rare-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/rare-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Rare Coins in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/baton-rouge-platinum-buyer/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/baton-rouge-platinum-buyer/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Baton Rouge Platinum Buyer | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/notes-currency/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/notes-currency/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Paper Currency in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/designer-jewelry/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/designer-jewelry/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buy & Sell Designer Jewelry in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/antique-jewelry/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/antique-jewelry/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Antique & Estate Jewelry in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/costume-jewelry/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/costume-jewelry/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Costume Jewelry | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/sell-used-or-scrap-jewelry/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/sell-used-or-scrap-jewelry/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Sell Used or Scrap Jewelry | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/buying-and-selling-watches-in-baton-rouge/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/buying-and-selling-watches-in-baton-rouge/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buying and Selling Watches in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/watch-battery-replacement/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/watch-battery-replacement/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Watch Battery Replacement & Repair in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/sell-silverware/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/sell-silverware/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Sell Sterling Silverware in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/art-home-decor-antiques/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/art-home-decor-antiques/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Art, Home Decor & Antiques | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/jewelry-repairs/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/jewelry-repairs/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Jewelry Repair in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/rhodium-plating/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/rhodium-plating/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Rhodium Plating | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/jewelry-engraving/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/jewelry-engraving/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Jewelry Engraving in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/bottle-and-glass-engraving/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/bottle-and-glass-engraving/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Bottle & Glass Engraving in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/custom-jewelry-designs/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/custom-jewelry-designs/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Custom Jewelry Designs | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/monogram-jewelry/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/monogram-jewelry/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Monogram Jewelry | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/gold-and-silver-of-louisiana-location/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/gold-and-silver-of-louisiana-location/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Visit Our Baton Rouge Showroom | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/how-we-buy-gold-and-silver/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/how-we-buy-gold-and-silver/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "How We Buy Gold and Silver | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/baton-rouge-gold-buyers/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/baton-rouge-gold-buyers/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Baton Rouge Gold Buyers | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/blog-posts/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/blog-posts/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Gold, Silver & Jewelry Articles | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/foreign-coins-currency-dealer/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/foreign-coins-currency-dealer/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Foreign Coins & Currency Dealer | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/u-s-90-silver-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/u-s-90-silver-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "U.S. 90% Silver Coins | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/rose-gold/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/rose-gold/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Rose Gold | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/selling-and-buying-diamonds/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/selling-and-buying-diamonds/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Selling and Buying Diamonds | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/colored-diamonds/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/colored-diamonds/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Learning About Fancy Colored Diamonds | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/engraving-services/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/engraving-services/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Engraving Services | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/buying-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/buying-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Buying Gold, Silver & Platinum Coins in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/consignment-services/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/consignment-services/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Consignment Services | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/gold-and-silver-of-louisiana/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/gold-and-silver-of-louisiana/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "About Gold & Silver of Louisiana | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/pmg-dealer/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/pmg-dealer/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Paper Money & PMG Dealer Services in Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/silver-dollars/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/silver-dollars/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Silver Dollars | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/turquoise/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/turquoise/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Turquoise | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/designer-jewelry-in-a-secondary-market/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/designer-jewelry-in-a-secondary-market/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Designer Jewelry in a Secondary Market | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/the-art-of-engraving/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/the-art-of-engraving/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "The Art of Engraving | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/rare-and-numismatic-coins/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/rare-and-numismatic-coins/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Rare and Numismatic Coins | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/jewelry-era-styles/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/jewelry-era-styles/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Jewelry Era Styles | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/precious-metals-vs-mining-stocks/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/precious-metals-vs-mining-stocks/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Precious Metals vs. Mining Stocks | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/the-fifth-c-of-diamonds/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/the-fifth-c-of-diamonds/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "The Fifth C of Diamonds | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/coins-vs-bars-and-rounds/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/coins-vs-bars-and-rounds/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Coins vs. Bars & Rounds | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/precious-metals-and-the-ecb’s-stimulus-plan-and-danish-rate-cuts/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/precious-metals-and-the-ecb%E2%80%99s-stimulus-plan-and-danish-rate-cuts/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Precious metals and the ECB’s stimulus plan and Danish Rate Cuts | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/gold-silver-prices-rise-after-swiss-abandon-currency-cap/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/gold-silver-prices-rise-after-swiss-abandon-currency-cap/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Gold & Silver Prices After the Swiss Currency Cap | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/gold-and-silver-continue-to-edge-higher-in-price/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/gold-and-silver-continue-to-edge-higher-in-price/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Gold & Silver Continue to Edge Higher in Price | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/start-a-coin-collection-for-your-children-or-grandchildren/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/start-a-coin-collection-for-your-children-or-grandchildren/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Starting a Coin Collection for Children or Grandchildren | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/taking-advantage-of-the-high-price-of-silver/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/taking-advantage-of-the-high-price-of-silver/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "High Silver Prices/ Invest or Sell | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/2012-store-updates-new-inventory-and-jewelry-repair/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/2012-store-updates-new-inventory-and-jewelry-repair/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Baton Rouge Jewelry Repair and Antique Consignment | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/volatility-in-the-gold/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/volatility-in-the-gold/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Volatility in the Gold Market | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/precious-metals-outlook-in-baton-rouge/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/precious-metals-outlook-in-baton-rouge/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Precious Metals Outlook In Baton Rouge | Gold & Silver of Louisiana"
+    },
+    {
+      "path": "/market-volitility-gold-and-silvers-reaction/",
+      "brokenLoadedImages": [],
+      "canonical": "https://batonrougegoldandsilver.com/market-volitility-gold-and-silvers-reaction/",
+      "h1s": 1,
+      "robots": "noindex,follow",
+      "title": "Market Volatility: Gold & Silver’s Reaction | Gold & Silver of Louisiana"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/investing-in-coins",
+      "expected": "/buying-coins/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/buying-coins/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/investing-in-coins/",
+      "expected": "/buying-coins/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/buying-coins/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/consingnment-services",
+      "expected": "/consignment-services/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/consignment-services/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/consingnment-services/",
+      "expected": "/consignment-services/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/consignment-services/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/jewelry-repairs-and-custom-designs",
+      "expected": "/jewelry-repairs/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/jewelry-repairs/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/jewelry-repairs-and-custom-designs/",
+      "expected": "/jewelry-repairs/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/jewelry-repairs/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/blog",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/blog/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/sitemap_index.xml",
+      "expected": "/sitemap.xml",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/sitemap.xml?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/wp-sitemap.xml",
+      "expected": "/sitemap.xml",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/sitemap.xml?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/goldandsilver",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/goldandsilver/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/goldandsilver/page/2",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/goldandsilver/page/2/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/batonrougegoldbuyer",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/category/batonrougegoldbuyer/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/author/goldenegg",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/author/goldenegg/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/author/goldenegg/page/2",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/author/goldenegg/page/2/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2022/07",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2022/07/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2020/05",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2020/05/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2017/03",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2017/03/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2016/11",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2016/11/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2016/02",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2016/02/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2015/02",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2015/02/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2015/01",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2015/01/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2014/07",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2014/07/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2014/01",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2014/01/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2012/03",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2012/03/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2012/01",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2012/01/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2011/12",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2011/12/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2011/11",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    },
+    {
+      "source": "/2011/11/",
+      "expected": "/blog-posts/",
+      "actual": "https://br-collective-o7rggdoc5-tda4.vercel.app/blog-posts/?utm_source=review",
+      "pass": true
+    }
+  ],
+  "statusCodeLimit": "Browser navigation confirmed destinations and query preservation; exact edge response statuses were not independently fetched because unauthenticated HTTP access redirects to Vercel login."
+}
