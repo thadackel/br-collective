@@ -8,7 +8,7 @@ const mime={'.html':'text/html; charset=utf-8','.css':'text/css; charset=utf-8',
 export function createServer(){return http.createServer(async(req,res)=>{try{
  const url=new URL(req.url,'http://localhost');let pathname;try{pathname=decodeURIComponent(url.pathname);}catch{res.writeHead(400);res.end('Bad request');return;}
  const normalized=pathname.replace(/\/{2,}/g,'/');
- const redirect=config.redirects.find(r=>r.source.replace(/\/$/,'')===normalized.replace(/\/$/,''));
+ const redirect=config.redirects.find(r=>r.source===normalized);
  if(redirect){res.writeHead(redirect.statusCode,{Location:redirect.destination+url.search});res.end();return;}
  if(normalized!==pathname){res.writeHead(308,{Location:encodeURI(normalized)+url.search});res.end();return;}
  if(pathname!=='/'&&!pathname.endsWith('/')&&!path.extname(pathname)){res.writeHead(308,{Location:encodeURI(pathname) + '/'+url.search});res.end();return;}
